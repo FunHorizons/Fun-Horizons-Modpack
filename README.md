@@ -4,6 +4,13 @@ Version 2.3.7 is out 2023-08-19
 
 [![Build Status](http://jenkins.usrv.eu:8080/buildStatus/icon?job=GTNewHorizons%20Configs)](http://jenkins.usrv.eu:8080/job/GTNewHorizons%20Configs/)
 
+## What is Fun Horizons?
+<p align="justify">
+	Fun Horizons is a fork of GTNH that takes main direction in major rebalance of GTNH to reduce waiting and tedious grind.
+	Everything that is new will be written in the questbook.<BR><BR>
+	All credit for the actual content goes to GTNH team.
+</p>
+
 ## What is GT New Horizons?
 
 <p align="justify">
